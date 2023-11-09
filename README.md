@@ -1,1 +1,1 @@
-# Azure Sentinel Honeypot Lab [Work in Progress]
+# Azure Sentinel Honeypot Attack Map [Work in Progress]
