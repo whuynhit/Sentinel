@@ -1,1 +1,1 @@
-# Azure Sentinel Lab [Work in Progress]
+# Azure Sentinel Honeypot Lab [Work in Progress]
